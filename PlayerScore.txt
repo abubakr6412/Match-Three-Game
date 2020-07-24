@@ -1,0 +1,28 @@
+-----------------------------------------
+Player Name: Jadith
+Play time: 78Seconds 
+Highest Level Reached: 4
+HighScore of Player: 92
+
+-----------------------------------------
+-----------------------------------------
+Player Name: Hayiqa
+Play time: 39Seconds 
+Highest Level Reached: 3
+HighScore of Player: 36
+
+-----------------------------------------
+-----------------------------------------
+Player Name: Power
+Play time: 61Seconds 
+Highest Level Reached: 4
+HighScore of Player: 33
+
+-----------------------------------------
+-----------------------------------------
+Player Name: Hayiqa
+Play time: 43Seconds 
+Highest Level Reached: 3
+HighScore of Player: 36
+
+-----------------------------------------
